@@ -1,0 +1,338 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 10002
+Evidence Number: 10002-01
+Unique description: Pendrive Forensic Image
+Examiner: Kushal
+Notes: Pendrive Forensic Image 
+
+--------------------------------------------------------------
+
+Information for C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 1,869
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 30,031,872
+[Physical Drive Information]
+ Drive Model: SanDisk Cruzer Blade USB Device
+ Drive Serial Number: 03001517011723130549
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 14664 MB
+ Sector count:    30031872
+[Computed Hashes]
+ MD5 checksum:    52faa7b8cbb07837e4cfff6d5933eacd
+ SHA1 checksum:   28d0d7ee1b6d06ed04bd363e79752fdb091610ac
+
+Image Information:
+ Acquisition started:   Tue Apr  4 11:26:01 2023
+ Acquisition finished:  Tue Apr  4 11:36:22 2023
+ Segment list:
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.001
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.002
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.003
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.004
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.005
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.006
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.007
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.008
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.009
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.010
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.011
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.012
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.013
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.014
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.015
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.016
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.017
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.018
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.019
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.020
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.021
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.022
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.023
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.024
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.025
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.026
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.027
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.028
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.029
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.030
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.031
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.032
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.033
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.034
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.035
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.036
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.037
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.038
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.039
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.040
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.041
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.042
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.043
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.044
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.045
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.046
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.047
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.048
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.049
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.050
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.051
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.052
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.053
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.054
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.055
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.056
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.057
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.058
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.059
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.060
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.061
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.062
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.063
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.064
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.065
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.066
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.067
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.068
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.069
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.070
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.071
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.072
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.073
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.074
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.075
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.076
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.077
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.078
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.079
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.080
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.081
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.082
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.083
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.084
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.085
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.086
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.087
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.088
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.089
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.090
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.091
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.092
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.093
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.094
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.095
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.096
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.097
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.098
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.099
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.100
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.101
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.102
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.103
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.104
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.105
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.106
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.107
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.108
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.109
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.110
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.111
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.112
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.113
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.114
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.115
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.116
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.117
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.118
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.119
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.120
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.121
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.122
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.123
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.124
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.125
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.126
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.127
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.128
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.129
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.130
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.131
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.132
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.133
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.134
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.135
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.136
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.137
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.138
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.139
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.140
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.141
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.142
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.143
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.144
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.145
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.146
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.147
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.148
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.149
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.150
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.151
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.152
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.153
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.154
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.155
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.156
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.157
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.158
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.159
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.160
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.161
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.162
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.163
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.164
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.165
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.166
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.167
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.168
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.169
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.170
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.171
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.172
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.173
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.174
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.175
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.176
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.177
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.178
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.179
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.180
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.181
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.182
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.183
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.184
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.185
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.186
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.187
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.188
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.189
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.190
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.191
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.192
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.193
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.194
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.195
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.196
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.197
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.198
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.199
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.200
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.201
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.202
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.203
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.204
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.205
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.206
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.207
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.208
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.209
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.210
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.211
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.212
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.213
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.214
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.215
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.216
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.217
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.218
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.219
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.220
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.221
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.222
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.223
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.224
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.225
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.226
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.227
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.228
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.229
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.230
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.231
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.232
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.233
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.234
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.235
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.236
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.237
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.238
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.239
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.240
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.241
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.242
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.243
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.244
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.245
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.246
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.247
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.248
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.249
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.250
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.251
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.252
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.253
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.254
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.255
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.256
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.257
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.258
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.259
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.260
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.261
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.262
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.263
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.264
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.265
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.266
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.267
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.268
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.269
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.270
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.271
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.272
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.273
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.274
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.275
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.276
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.277
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.278
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.279
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.280
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.281
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.282
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.283
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.284
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.285
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.286
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.287
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.288
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.289
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.290
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.291
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.292
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.293
+  C:\Users\baral\OneDrive\Desktop\New folder\Pendrive Forensic Toolkit.294
+
+Image Verification Results:
+ Verification started:  Tue Apr  4 11:36:22 2023
+ Verification finished: Tue Apr  4 11:37:17 2023
+ MD5 checksum:    52faa7b8cbb07837e4cfff6d5933eacd : verified
+ SHA1 checksum:   28d0d7ee1b6d06ed04bd363e79752fdb091610ac : verified
