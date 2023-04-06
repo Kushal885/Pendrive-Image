@@ -1,0 +1,338 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 2002
+Evidence Number: 2002-01
+Unique description: Pendrive Files Recovery
+Examiner: Kushal
+Notes: Sandisk Pendrive Deleted File Recovery
+
+--------------------------------------------------------------
+
+Information for C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 1,869
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 30,031,872
+[Physical Drive Information]
+ Drive Model: SanDisk Cruzer Blade USB Device
+ Drive Serial Number: 03001517011723130549
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 14664 MB
+ Sector count:    30031872
+[Computed Hashes]
+ MD5 checksum:    5f42033368a594c780433655227675fa
+ SHA1 checksum:   be4aefc71eaf8ed17d27e8a60172e3a5010a15e6
+
+Image Information:
+ Acquisition started:   Thu Apr  6 20:07:25 2023
+ Acquisition finished:  Thu Apr  6 20:18:06 2023
+ Segment list:
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.001
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.002
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.003
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.004
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.005
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.006
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.007
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.008
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.009
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.010
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.011
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.012
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.013
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.014
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.015
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.016
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.017
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.018
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.019
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.020
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.021
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.022
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.023
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.024
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.025
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.026
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.027
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.028
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.029
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.030
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.031
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.032
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.033
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.034
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.035
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.036
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.037
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.038
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.039
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.040
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.041
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.042
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.043
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.044
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.045
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.046
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.047
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.048
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.049
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.050
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.051
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.052
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.053
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.054
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.055
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.056
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.057
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.058
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.059
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.060
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.061
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.062
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.063
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.064
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.065
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.066
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.067
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.068
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.069
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.070
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.071
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.072
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.073
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.074
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.075
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.076
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.077
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.078
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.079
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.080
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.081
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.082
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.083
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.084
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.085
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.086
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.087
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.088
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.089
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.090
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.091
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.092
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.093
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.094
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.095
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.096
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.097
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.098
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.099
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.100
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.101
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.102
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.103
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.104
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.105
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.106
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.107
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.108
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.109
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.110
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.111
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.112
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.113
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.114
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.115
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.116
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.117
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.118
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.119
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.120
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.121
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.122
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.123
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.124
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.125
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.126
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.127
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.128
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.129
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.130
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.131
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.132
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.133
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.134
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.135
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.136
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.137
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.138
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.139
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.140
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.141
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.142
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.143
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.144
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.145
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.146
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.147
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.148
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.149
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.150
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.151
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.152
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.153
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.154
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.155
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.156
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.157
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.158
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.159
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.160
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.161
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.162
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.163
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.164
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.165
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.166
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.167
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.168
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.169
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.170
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.171
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.172
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.173
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.174
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.175
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.176
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.177
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.178
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.179
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.180
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.181
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.182
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.183
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.184
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.185
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.186
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.187
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.188
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.189
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.190
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.191
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.192
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.193
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.194
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.195
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.196
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.197
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.198
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.199
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.200
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.201
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.202
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.203
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.204
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.205
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.206
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.207
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.208
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.209
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.210
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.211
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.212
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.213
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.214
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.215
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.216
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.217
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.218
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.219
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.220
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.221
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.222
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.223
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.224
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.225
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.226
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.227
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.228
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.229
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.230
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.231
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.232
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.233
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.234
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.235
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.236
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.237
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.238
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.239
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.240
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.241
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.242
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.243
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.244
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.245
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.246
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.247
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.248
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.249
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.250
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.251
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.252
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.253
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.254
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.255
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.256
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.257
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.258
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.259
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.260
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.261
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.262
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.263
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.264
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.265
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.266
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.267
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.268
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.269
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.270
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.271
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.272
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.273
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.274
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.275
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.276
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.277
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.278
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.279
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.280
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.281
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.282
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.283
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.284
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.285
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.286
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.287
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.288
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.289
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.290
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.291
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.292
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.293
+  C:\Users\baral\OneDrive\Desktop\Pendrive Image\Pendrive Image.294
+
+Image Verification Results:
+ Verification started:  Thu Apr  6 20:18:07 2023
+ Verification finished: Thu Apr  6 20:20:57 2023
+ MD5 checksum:    5f42033368a594c780433655227675fa : verified
+ SHA1 checksum:   be4aefc71eaf8ed17d27e8a60172e3a5010a15e6 : verified
